@@ -1,0 +1,4 @@
+food
+cloths
+house
+home appliancies
