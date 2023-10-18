@@ -1,0 +1,4 @@
+school
+class
+home
+new
